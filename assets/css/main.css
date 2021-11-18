@@ -3284,6 +3284,9 @@ input, select, textarea {
 					margin-left: 0;
 					padding: 0;
 				}
+		.emailNew {
+			list-style-type: none;
+		}
 
 /* XLarge */
 
